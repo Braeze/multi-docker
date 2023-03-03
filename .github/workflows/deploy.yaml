@@ -1,4 +1,4 @@
-    name: complex
+    name: multi-docker 
     on:
       push:
         branches:
