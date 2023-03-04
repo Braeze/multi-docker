@@ -5,6 +5,8 @@
             "name": "client",
             "image": "braeze/multi-client",
             "hostname": "client",
+            "essential": false
         }
+        
     ]
 }
